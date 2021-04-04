@@ -4,9 +4,10 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
@@ -172,11 +173,11 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: #0D537D;
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
 }
 
@@ -188,7 +189,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-collapse {
-    border-color: rgba(255,255,255,.02);
+    border-color: rgba(13, 82, 125,.02);
 }
 
 .navbar-default .navbar-toggle {
@@ -257,7 +258,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: #0d527d;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -657,7 +658,7 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
+    background-color: #0d527d;
     background-image: url('{{ site.baseurl }}/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
