@@ -9,37 +9,25 @@ description: "¡Te damos la bienvenida a la Iglesia Cristiana Bautista Estrella 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Hiram Torres
   pic: 1
-  position: Lead Designer
+  position: Pastor
   social:
-    - title: twitter
-      url: #
     - title: facebook
       url: #
-    - title: stack-overflow
-      url: #
 
-- name: Larry Parker
+- name: Hiram Torres
   pic: 2
-  position: Lead Marketer
+  position: Ministro
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Hiram Torres
   pic: 3
-  position: Lead Developer
+  position: Ministro
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: google-plus
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
