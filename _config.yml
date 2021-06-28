@@ -9,23 +9,23 @@ description: "¡Te damos la bienvenida a la Iglesia Cristiana Bautista Estrella 
 
 # Team names, titles and social links
 people:
-- name: Hiram Torres
+- name: Francisco Espinosa
   pic: 1
   position: Pastor
   social:
     - title: facebook
       url: #
 
-- name: Hiram Torres
+- name: Erick Soria 
   pic: 2
-  position: Ministro
+  position: Ministro de Adoración 
   social:
     - title: facebook
       url: #
 
-- name: Hiram Torres
+- name: Alicia Espinoza
   pic: 3
-  position: Ministro
+  position: Misionera
   social:
     - title: facebook
       url: #
