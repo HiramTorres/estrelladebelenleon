@@ -1,8 +1,8 @@
 ---
-title: Compasión
+title: Administración
 subtitle: --
 layout: default
-modal-id: 6
+modal-id: 8
 date: 2021-07-03
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png

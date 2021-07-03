@@ -1,9 +1,9 @@
 ---
 title: Proclamación
-subtitle: Misiones
+subtitle: Evangelismo y Misiones
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2021-07-03
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt

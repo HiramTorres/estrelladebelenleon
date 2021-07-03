@@ -1,9 +1,9 @@
 ---
-title: Administración
-subtitle: Finanzas y asuntos legales 
+title: Compañerismo
+subtitle: --
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2021-07-03
 img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt

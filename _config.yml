@@ -1,5 +1,5 @@
 url: https://estrelladebelenleon.com
-baseurl: /
+baseurl: 
 
 # Site settings
 title: Iglesia Cristiana Bautista Estrella de Belén
@@ -9,7 +9,7 @@ description: "¡Te damos la bienvenida a la Iglesia Cristiana Bautista Estrella 
 
 # Team names, titles and social links
 people:
-- name: Francisco Espinosa
+- name: Francisco Espinoza
   pic: 3
   position: Pastor
   social:
@@ -58,6 +58,13 @@ people:
     - title: facebook
       url: #
 
+- name: Rosaura Treviño
+  pic: 7
+  position: Ministro de Compañerismo 
+  social:
+    - title: facebook
+      url: #
+      
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook

@@ -1,9 +1,8 @@
 ---
-title: Adoración
-subtitle: Grupos de alabanza
-layout: default
+title: Pastoral
+subtitle: Ministros, Asistente de la iglesia, Oración, Grupos.
 modal-id: 1
-date: 2014-07-18
+date: 2021-07-03
 img: Adoracion.jpeg
 thumbnail: dreams-thumbnail.png
 alt: image-alt

@@ -1,10 +1,10 @@
 ---
-title: Compasión
+title: Adoración
 subtitle: --
 layout: default
-modal-id: 6
+modal-id: 7
 date: 2021-07-03
-img: roundicons.png
+img: Adoracion.jpeg
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 project-date: April 2014
