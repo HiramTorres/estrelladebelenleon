@@ -10,7 +10,7 @@ description: "¡Te damos la bienvenida a la Iglesia Cristiana Bautista Estrella 
 # Team names, titles and social links
 people:
 - name: Francisco Espinosa
-  pic: 1
+  pic: 3
   position: Pastor
   social:
     - title: facebook
@@ -24,7 +24,7 @@ people:
       url: #
 
 - name: Erick Soria
-  pic: 3
+  pic: 1
   position: Ministro de Adoración
   social:
     - title: facebook
@@ -45,14 +45,14 @@ people:
       url: #
 
 - name: Esther Sánchez
-  pic: 5
+  pic: 6
   position: Ministro de Proclamación 
   social:
     - title: facebook
       url: #      
 
 - name: Rosaura Treviño
-  pic: 5
+  pic: 7
   position: Ministro de Compañerismo 
   social:
     - title: facebook
