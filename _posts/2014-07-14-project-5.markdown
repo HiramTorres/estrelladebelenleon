@@ -1,6 +1,7 @@
 ---
 title: Compañerismo
-subtitle: --
+subtitle: Comida fraternal, Cocina, Ujieres.
+
 layout: default
 modal-id: 5
 date: 2021-07-03

@@ -1,6 +1,6 @@
 ---
 title: Edificación
-subtitle: --
+subtitle: Instituto bíblico dominical, Discipulado integral, Consejería, Proyecto escriba.
 layout: default
 modal-id: 3
 date: 2021-07-03

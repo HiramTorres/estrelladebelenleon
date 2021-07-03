@@ -1,6 +1,6 @@
 ---
 title: Servicio
-subtitle: --
+subtitle: Ordenanzas, Mantenimiento, Conserjería, Ornato y arreglo floral, Diáconos.
 layout: default
 modal-id: 4
 date: 2021-07-03

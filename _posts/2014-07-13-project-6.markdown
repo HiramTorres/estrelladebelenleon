@@ -1,6 +1,6 @@
 ---
 title: Compasión
-subtitle: --
+subtitle: SOS (Auxilio cristiano), Hospitales , Despensa mensual. 
 layout: default
 modal-id: 6
 date: 2021-07-03

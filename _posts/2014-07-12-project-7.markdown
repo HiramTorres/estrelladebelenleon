@@ -1,6 +1,6 @@
 ---
 title: Adoración
-subtitle: --
+subtitle: Dirección de cultos, Grupos musicales, Coro, Audio y video, Producción.
 layout: default
 modal-id: 7
 date: 2021-07-03

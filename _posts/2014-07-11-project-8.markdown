@@ -1,6 +1,6 @@
 ---
 title: Administración
-subtitle: --
+subtitle: Mayordomía y finanzas,Tesorería, Ventas Pro, Mejoras materiales, Librería.
 layout: default
 modal-id: 8
 date: 2021-07-03
