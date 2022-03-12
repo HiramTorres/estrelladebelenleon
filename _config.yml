@@ -1,5 +1,5 @@
 url: https://estrelladebelenleon.com
-baseurl: /
+baseurl: 
 
 # Site settings
 title: Iglesia Cristiana Bautista Estrella de Belén
@@ -58,12 +58,6 @@ people:
     - title: facebook
       url: #
 
-- name: Rosaura Treviño
-  pic: 7
-  position: Ministro de Compañerismo 
-  social:
-    - title: facebook
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
