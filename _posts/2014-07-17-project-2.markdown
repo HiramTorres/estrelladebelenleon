@@ -4,12 +4,12 @@ subtitle: Evangelismo y Misiones
 layout: default
 modal-id: 2
 date: 2021-07-03
-img: proclamación.png
-thumbnail: proclamación.png
+img: barca.png
+thumbnail: SMM.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description:  Y Jesús se acercó y les habló diciendo:Toda potestad me es dada en el cielo y en la tierra. Por tanto, id, y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo; enseñándoles que guarden todas las cosas que os he mandado; y he aquí yo estoy con vosotros todos los días, hasta el fin del mundo. Amén. Mateo 28:18-19. 
 
 ---

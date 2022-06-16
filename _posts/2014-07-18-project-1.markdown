@@ -4,11 +4,47 @@ subtitle: Ministros, Asistente de la iglesia, Oración, Grupos.
 modal-id: 1
 date: 2021-07-03
 img: Pastoral123.jpg
-thumbnail: Pastoral1223.jpg
+thumbnail: pas.png
 alt: image-alt
-project-date: April 2014
+project-date: 2022
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: A los ancianos que están entre ustedes, yo, que soy anciano como ellos, testigo de los sufrimientos de Cristo y partícipe con ellos de la gloria que se ha de revelar, les ruego esto:cuiden como pastores el rebaño de Dios que está a su cargo, no por obligación ni por ambición de dinero, sino con afán de servir, como Dios quiere. 1 Pedro 5:1-2 
 ---
+
+## MINISTERIO PASTORAL
+
+* El Ministerio Pastoral de nuestra Iglesia es el responsable del crecimiento espiritual y numérico de la misma. La función bíblica de un pastor basado en 1 Pedro 5:1-2; Hch 20:17.
+    * Como Obispo: Con la autoridad que Dios le concede
+    * Como Pastor: está al frente de la Iglesia para ‘la capacitación de los santos para la obra del ministerio’.
+    * Como Presbítero: Administra la ubicación de los hermanos según su ministerio (Dones, Habilidades, etc.).
+    * Como Anciano: Aconseja y orienta.
+
+
+## Este ministerio trabaja diversos proyectos como:
+- Predicación biblica 
+- Guerreros de oración
+- Ministerios IBEB. Nuestra Iglesia cuenta con 7 Ministerios 
+    - Proclamación &rarr; Ester Sanchez
+    - Pastoral &rarr; PR Francisco Espinoza
+    - Edificación &rarr; Elizabeth Espinosa
+    - Servicio &rarr; PENDIENTE
+    - Compañerismo &rarr; Rosaura Treviño
+    - Compasión &rarr; Alicia Espiniza
+    - Adoración &rarr; Erick Soria
+    - Administración &rarr; Salomón Soria
+    
+    ( **_PPESCCAA_** ) 
+
+- Pastoreo de los grumos homogéneos:
+
+    - Varones ‘SIMEON’, &rarr; PENDIENTE
+    - Muejers ‘RUT’ &rarr; ALICIA ESPINOSA
+    - Jóvenes ‘TIMOTEO’ &rarr; JOSE Y MARIANA RAMIREZ
+    - Adolescentes ‘DANIEL’	&rarr; PENDIENTE
+    - Siervos hasta el fin 65 años y más &rarr; ESTRELLA MENDOZA
+    - Amigos en Cristo &rarr; LILIA SORIA
+    - Matrimonios ‘CANTARES’ &rarr; AARON Y LUPITA ALVAREZ
+    - PASTOR DE GRUPOS &rarr; SALOMON GARCIA
+
+**_El fin es pastorear a cada uno de los diversos grupos tratando de suplir las necesidades propias de cada uno de ellos. Cuentan con un líder servidor que está en contacto continuo con el pastor de Grupos – Hno Salomón García y a su vez con el Pr de la Iglesia._**
