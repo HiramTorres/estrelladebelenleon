@@ -1,0 +1,60 @@
+---
+title: Pastoral
+subtitle: Ministros, Asistente de la iglesia, Oración, Grupos.
+modal-id: 1
+date: 2021-07-03
+img: Pastoral123.jpg
+thumbnail: pas.png
+alt: image-alt
+project-date: 2022
+client: Start Bootstrap
+category: Web Development
+description: >
+    <i> A los ancianos que están entre ustedes, yo, que soy anciano como ellos, testigo de los sufrimientos de Cristo y partícipe con ellos de la gloria que se ha de revelar, les ruego esto:cuiden como pastores el rebaño de Dios que está a su cargo, no por obligación ni por ambición de dinero, sino con afán de servir, como Dios quiere. 1 Pedro 5:1-2
+    </i> 
+text: >
+    <center> <h1> MINISTERIO PASTORAL</h1> </center>
+
+    El Ministerio Pastoral de nuestra Iglesia es el responsable del crecimiento espiritual y numérico de la misma. La función bíblica de un pastor basado en 1 Pedro 5:1-2; Hch 20:17.
+    <br>
+    <br>
+    <ul>
+        <li><strong>Como Obispo:</strong> Con la autoridad que Dios le concede.</li>
+        <li><strong>Como Pastor:</strong> está al frente de la Iglesia para ‘la capacitación de los santos para la obra del ministerio’.</li>
+        <li><strong>Como Presbítero:</strong> Administra la ubicación de los hermanos según su ministerio (Dones, Habilidades, etc.).</li>
+        <li><strong>Como Anciano:</strong> Aconseja y orienta.</li>
+    </ul>
+
+
+    <h4> Este ministerio trabaja diversos proyectos como:</h4>
+
+    <ul>
+    <li>Predicación biblica </li>
+    <li>Guerreros de oración</li>
+    <li>Ministerios IBEB. Nuestra Iglesia cuenta con 7 Ministerios</li> 
+        <ul>
+        <li>Proclamación &rarr; Ester Sanchez</li>
+        <li>Pastoral &rarr; PR Francisco Espinoza</li>
+        <li>Edificación &rarr; Elizabeth Espinosa</li>
+        <li>Servicio &rarr; PENDIENTE</li>
+        <li>Compañerismo &rarr; Rosaura Treviño</li>
+        <li>Compasión &rarr; Alicia Espiniza</li>
+        <li>Adoración &rarr; Erick Soria</li>
+        <li>Administración &rarr; Salomón Soria</li>
+        </ul>
+        <b>( PPESCCAA ) </b> 
+    </ul>
+
+    <h4>Pastoreo de los grumos homogéneos:</h4>
+    <ul>
+        <li>Varones ‘SIMEON’, &rarr; PENDIENTE</li>
+        <li>Muejers ‘RUT’ &rarr; ALICIA ESPINOSA</li>
+        <li>Jóvenes ‘TIMOTEO’ &rarr; JOSE Y MARIANA RAMIREZ</li>
+        <li>Adolescentes ‘DANIEL’	&rarr; PENDIENTE</li>
+        <li>Siervos hasta el fin 65 años y más &rarr; ESTRELLA MENDOZA</li>
+        <li>Amigos en Cristo &rarr; LILIA SORIA</li>
+        <li>Matrimonios ‘CANTARES’ &rarr; AARON Y LUPITA ALVAREZ</li>
+        <li>PASTOR DE GRUPOS &rarr; SALOMON GARCIA</li>
+    <br>
+    <i><strong>El fin es pastorear a cada uno de los diversos grupos tratando de suplir las necesidades propias de cada uno de ellos. Cuentan con un líder servidor que está en contacto continuo con el pastor de Grupos – Hno Salomón García y a su vez con el Pastor de la Iglesia.</i></strong>
+---

@@ -1,0 +1,126 @@
+---
+title: Edificación
+subtitle: Instituto bíblico dominical, Discipulado integral, Consejería, Proyecto escriba.
+layout: default
+modal-id: 3
+date: 2021-07-03
+img: edificacion.png
+thumbnail: edificacion.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: >
+    <i>“.. y dio dones a los hombres…Así preparó a los suyos para un trabajo de servicio, para hacer crecer el cuerpo de Cristo hasta que todos lleguemos a estar unidos en la fé y en el conocimiento del Hijo de Dios. De este modo alcanzaremos la madurez y el desarrollo que corresponden a la estatura perfecta de Cristo” Efesios 4:8,12-13</i>
+text: >
+    <div>
+        <center><h1>Ministerio de edificación</h1></center> 
+        <br>
+        <p>El ministerio de edificación tiene como propósito:</p>
+        ALCANZAR, ENSEÑAR Y DESARROLLAR DISCIPULOS GUIANDOLOS A VIVIR Y SERVIR BAJO EL SEÑORIO DE CRISTO
+        <br>
+        <br>
+        <i>Sus integrantes son:</i>
+        <br>
+        <ul>
+            <li>Elizabeth Espinosa Luna</li>
+            <li>Vanessa Navarro Esparza</li>
+            <li>Tábatha Luna Treviño</li>
+        </ul>
+        <p>Se compone de los siguientes proyectos:</p>
+    </div>
+    <div>
+        <h4>Instituto Bíblico Dominical </h4>
+
+        Compartir la enseñanza fiel de la palabra de Dios por medio de una clase de interacción que solo se puede dar en el marco de un grupo pequeño y homogéneo. 
+        <br>
+        <br>
+        <i>Se Logra a través de:</i>
+        <br>
+        <br>
+        <ul>
+            <li>Multiplicación de los asistentes en grupos de Niños, Adolescentes, Jóvenes y Adultos.</li>
+            <li>La participación de la congregación en un plan de estudios bíblico-sistematizados, acorde a las necesidades de los miembros.</li>
+            <li>Una plantilla de maestros, dedicados a la enseñanza y capacitación a otros.</li>
+        </ul>
+        <br>
+    </div>
+    <div>
+        <h4>Discipulado Progresivo</h4>
+
+            Equipar, preparar y ayudar a desarrollar el carácter de Cristo a través del estudio sistemático de la Palabra de Dios y el  Discipulado, en sus diferentes niveles.
+            <br>
+            <br>
+            <i>Lo logramos através de:</i>
+                <ul>
+                    <li><h5>Discipulado a Nuevos Creyentes:</h5></li>
+                        <ul>
+                            <li>Pre-bautismal</li>
+                            <li>Nuevo Inicio con Dios</li>
+                        </ul>
+                    <li><h5>Discipulado a Creyentes:</h5></li>
+                        <ul>
+                            <li>Clase 101 &rarr; Descubriendo la membresía</li>
+                            <li>Clase 201 &rarr; Descubriendo la madurez</li>
+                            <li>Clase 301 &rarr; Descubriendo el ministerio</li>
+                            <li>Clase 401 &rarr; Descubriendo la misión</li>
+                        </lu>
+                </ul>
+            <br>
+    </div>
+    <div>    
+        <h4>Departamentos Misioneros Infantiles</h4>
+            
+            <i>Propósito:</i>
+            <br>
+            <b>Desarrollar en los niños y jovencitos el amor por la obra misionera y crecimiento espiritual a través del conocimiento bíblico, derivado de un estudio graduado.</b>
+            <br>
+            <br>
+            <p>Los diferentes grupos son :</p>
+            <ul>
+                <li>Rayitos de Sol – niños (as)  4 a 8 años</li>
+                <li>Sociedad Auxiliar de Niñas – Niñas de 9 a 15 años</li>
+                <li>Embajadores del Rey – Niños de 9 a 15 años</li>
+            </ul>
+            <br>
+    </div>
+    <div>
+        <h4>Proyecto Escriba:</h4>
+
+            Motivar a la congregación a la lectura, aprendizaje y meditación de la biblia, de una manera dinámica, para conocer más a Dios y entender el propósito de nuestra vida en la tierra.
+            <br>
+            <br>
+            <i>Tiene 3 modalidades :</i>
+            <br>
+            <ol>
+                <li>Leer y escribir un libro de la Biblia (Según el énfasis del año)</li>
+                <li>Realizar actividades escritas como retroalimentación a la lectura y escritura.</li>
+                <li>Memorizar pasajes bíblicos claves de cada libro escrito.</li>
+                </ol>
+            <br>
+    </div>
+    <div>
+        <h4>Curso Bíblico de Verano</h4>
+
+            Aprovechar las vacaciones de los escolares de 4 a 16 años durante el verano, para mostrarles a Jesús como el Señor, amigo y maestro de sus vidas, a través de actividades variadas y amenas como historias bíblicas, trabajos manuales, deportes, etc.,
+            <br>
+            <br>
+            <i>Este año con el tema:</i>
+            <br>
+            “entrena para ganar” basado en la vida de Josué.
+            <br>
+    </div>
+    <br>
+    <div>
+        <h4>Ministerio de Consejería</h4> 
+
+            Con la intención de Acompañar a personas y hermanos en procesos difíciles de la vida, mostrando lo que la Palabra de Dios tiene para ellos. 
+    </div>
+    <br>
+    <div>
+        <h4>Agosto – Mes de la Biblia,</h4>
+
+            Cada año hacemos énfasis en la Lectura de la Biblia y estimulamos al aprecio de la Palabra de Dios, por medio de celebraciones dominicales y programas especiales.
+    </div>
+---
+
