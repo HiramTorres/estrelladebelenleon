@@ -10,6 +10,8 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: >
+    Por lo tanto, mis queridos hermanos, manténganse firmes e inconmovibles, progresando siempre en la obra del Señor, conscientes de que su trabajo en el Señor no es en vano. 1 Corintios 15:58
+text: >
 
 ---

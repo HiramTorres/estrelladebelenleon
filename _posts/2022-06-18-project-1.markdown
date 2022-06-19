@@ -60,4 +60,5 @@ text: >
         <br>
         <i><strong>El fin es pastorear a cada uno de los diversos grupos tratando de suplir las necesidades propias de cada uno de ellos. Cuentan con un líder servidor que está en contacto continuo con el pastor de Grupos – Hno Salomón García y a su vez con el Pastor de la Iglesia.</i></strong>
         </div>
-    ---
+
+---
