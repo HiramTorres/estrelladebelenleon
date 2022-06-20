@@ -4,8 +4,8 @@ subtitle: Instituto bíblico dominical, Discipulado integral, Consejería, Proye
 layout: default
 modal-id: 3
 date: 2021-07-03
-img: edificacion.png
-thumbnail: edificacion.png
+img: maestros.png
+thumbnail: edif.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

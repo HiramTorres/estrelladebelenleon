@@ -5,7 +5,7 @@ subtitle: Comida fraternal, Cocina, Ujieres.
 layout: default
 modal-id: 5
 date: 2021-07-03
-img: startup-framework.png
+img: cocina.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
 project-date: April 2014

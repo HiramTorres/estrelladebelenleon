@@ -4,8 +4,8 @@ subtitle: Ordenanzas, Mantenimiento, Conserjería, Ornato y arreglo floral, Diá
 layout: default
 modal-id: 4
 date: 2021-07-03
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: servi.jpg
+thumbnail: servicio.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
