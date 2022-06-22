@@ -3,8 +3,7 @@ title: Pastoral
 subtitle: Ministros, Asistente de la iglesia, Oración, Grupos.
 modal-id: 1
 date: 2021-07-03
-img: >
-    pas1.png
+img: pas1.png
 thumbnail: pas.png
 alt: image-alt
 project-date: 2022
