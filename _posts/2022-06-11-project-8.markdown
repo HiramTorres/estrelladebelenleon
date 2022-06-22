@@ -11,6 +11,27 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: >
-    <i>Así, pues, téngannos los hombres por servidores de Cristo, y administradores de los misterios de Dios. Ahora bien, se requiere de los administradores, que cada uno sea hallado fiel. 1 corintios 4:1-2</i>
+    
+text: >
+    <div>
+        <center><h1>MINISTERIO DE ADMINISTRACION</h1></center>
+        <br>
+        
+        <p>El ministerio de administración de la iglesia Estrella de Belén, cumple la función de optimizar los recursos financieros provistos por medio de las ofrendas y diezmos que de forma voluntaria entregan los miembros de la iglesia. 
+        Como ministerio enseñamos  lo que bíblicamente vemos respecto a ofrendas y diezmos, resaltando la bendición que es participar en la extensión del reino de Dios, ya que con los recursos recabados se sostienen pastores, misioneros y diferentes ministerios que se dedican a la proclamación del evangelio.</p>
+        
+        <p>También se destinan recursos para la construcción del templo, así como el adecuado mantenimiento del mismo.</p>
+        
+        <i>Los trabajos del ministerio se llevan a cabo por medio de las siguientes Áreas:</i>
+            <ul>
+                <li>Tesorería</li>  
+                <li>Contabilidad</li>
+                <li>Asuntos legales</li>
+                <li>Construcción del templo</li>
+                <li>Ventas Pro</li>
+            </ul>
+
+        <i>Porque ¿quién soy yo, y quien es mi pueblo, para que pudiésemos ofrecer voluntariamente cosas semejantes? Pues todo es tuyo, y de lo recibido de tu mano te damos 1 crónicas 29:14  </i>
+    </div>
 
 ---
