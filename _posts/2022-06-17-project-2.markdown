@@ -11,13 +11,50 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: >
-    Y Jesús se acercó y les habló diciendo: Toda potestad me es dada en el cielo y en la tierra. Por tanto, id, y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo; enseñándoles que guarden todas las cosas que os he mandado; y he aquí yo estoy con vosotros todos los días, hasta el fin del mundo. Amén. Mateo 28:18-19. 
+    
 text: >
-    Ministerio de Proclamación.
-    En Febrero del año 2015  inició actividades la Iglesia Cristiana Bautista Cerrito de jerez.
-    En Febrero del año 2020 Iniciamos actividades en Romita,el trabajo ha sido muy difícil pero Dios ha sido bueno y aunque en forma muy lenta,pero hemos visto avance en el trabajo misionero.
-    Por iniciativa del hno. Manuel y la hna Alicia iniciamos trabajo misionero en la comunidad de Palo Colorado en Noviembre 2021
-    Contamos también con cinco centros de estudio bíblico en Romita, los que iniciamos en marzo de este año 2022
-    Y dos  en León que iniciaron en uno en mayo y el otro en julio 2021
-    Actualmente sólo somos tres. Hno. Marcelo,Hna. Sara García y yo
+    <div> 
+    <!-- START CAROUSEL -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+        <div class="item active">
+            <img src="img/ministerios/barca.png" style="width:100%;">
+        </div>
+
+        <div class="item">
+            <img src="img/ministerios/SMM1.png" style="width:100%;">
+        </div>
+        
+        <div class="item">
+            <img src="img/ministerios/Proclamacion1.png" style="width:100%;">
+        </div>
+        </div>
+    </div>
+    <!-- END CAROUSEL -->
+        
+        <center><i style="font-size: 0.9em">Y Jesús se acercó y les habló diciendo: Toda potestad me es dada en el cielo y en la tierra. Por tanto, id, y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo; enseñándoles que guarden todas las cosas que os he mandado; y he aquí yo estoy con vosotros todos los días, hasta el fin del mundo. Amén. Mateo 28:18-19.</i></center>
+
+        <center><h1>Ministerio de Proclamación.</h1></center>
+        <br>
+        <i> Dios ha bendecido este ministerio en diferentes actividades, como:</i>
+        <br>
+        <ul>
+            <li>En Febrero del año 2015  inició actividades la Iglesia Cristiana Bautista Cerrito de jerez.
+            <li>En Febrero del año 2020 Iniciamos actividades en Romita,el trabajo ha sido muy difícil pero Dios ha sido bueno y aunque en forma muy lenta,pero hemos visto avance en el trabajo misionero.
+            <li>Por iniciativa del hno. Manuel y la hna Alicia iniciamos trabajo misionero en la comunidad de Palo Colorado en Noviembre 2021
+        </ul>
+        <p>Contamos también con cinco centros de estudio bíblico en Romita, los que iniciamos en marzo de este año 2022
+        Y dos  en León que iniciaron en uno en mayo y el otro en julio 2021</p>
+
+        <p>Actualmente sólo somos tres mienmbros en este ministerio, el Hno. Marcelo,la Hna. Sara García y Hna. Esther Sánchez Líder del equipo. Pero somos apoyados por nuestra amada iglesia a lo largo de las actividades que vamos realizando en el año. Y estamos a la espera de cualquiera que se quiera unir al trabajo, todos son bienvenidos.</p>
+
+    </div>
 ---

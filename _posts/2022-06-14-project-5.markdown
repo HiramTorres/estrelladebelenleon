@@ -12,8 +12,35 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: >     
-    Hermanos, llénense de alegría y traten de renovarse. Hagan lo que les digo: pónganse de acuerdo entre ustedes y vivan en paz. Así, el Dios de amor y paz estará con ustedes. 2 corintios 13:11
+    
 text: >
+    <!-- START CAROUSEL -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+        <div class="item active">
+            <img src="img/ministerios/cocina.png" style="width:100%;">
+        </div>
+
+        <div class="item">
+            <img src="img/ministerios/comp2.png" style="width:100%;">
+        </div>
+        
+        <div class="item">
+            <img src="img/ministerios/comp3.png" style="width:100%;">
+        </div>
+        </div>
+    </div>
+    <!-- END CAROUSEL -->
+
+    <center><i style="font-size : 0.9em">Hermanos, llénense de alegría y traten de renovarse. Hagan lo que les digo: pónganse de acuerdo entre ustedes y vivan en paz. Así, el Dios de amor y paz estará con ustedes. 2 corintios 13:11</i></center>
     <div>
         <center><h1>Ministerio de Compañerismo</h1></center>
         <br>   
@@ -56,4 +83,5 @@ text: >
             Paseo anual del la iglesia el día 1 de mayo ( rally, paseo balneario, día de campo, etc) está pendiente un hermano que se haga cargo de esta actividad.
             </p>
     </div>
+    <center><i style="font-size : 0.9em"> Un servidor de Dios no debe andar en peleas. Al contrario, debe ser bueno con todos, saber enseñar, y tener mucha paciencia. Y cuando corrijas a tus enemigos, hazlo con humildad. Tal vez Dios les dé la oportunidad de arrepentirse y de conocer la verdad. 2 Timoteo 2:24-25</i></center>
 ---

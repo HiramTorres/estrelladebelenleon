@@ -5,7 +5,7 @@ layout: default
 modal-id: 8
 date: 2021-07-03
 img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+thumbnail: admin.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
@@ -13,6 +13,32 @@ category: Web Development
 description: >
     
 text: >
+    <!-- START CAROUSEL -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+        <div class="item active">
+            <img src="img/ministerios/admin3.png" style="width:100%;">
+        </div>
+
+        <div class="item">
+            <img src="img/ministerios/admin.png" style="width:100%;">
+        </div>
+        
+        <div class="item">
+            <img src="img/ministerios/admin2.png" style="width:100%;">
+        </div>
+        </div>
+    </div>
+    <!-- END CAROUSEL -->
+
     <div>
         <center><h1>MINISTERIO DE ADMINISTRACION</h1></center>
         <br>

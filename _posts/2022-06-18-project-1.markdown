@@ -25,21 +25,21 @@ text: >
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
         <div class="item active">
-            <img src="img/ministerios/barca.png" style="width:100%;">
+            <img src="img/ministerios/Pas1.png" style="width:100%;">
         </div>
 
         <div class="item">
-            <img src="img/ministerios/cocina.png" style="width:100%;">
+            <img src="img/ministerios/Pas2.png" style="width:100%;">
         </div>
         
         <div class="item">
-            <img src="img/ministerios/compasion.png" style="width:100%;">
+            <img src="img/ministerios/Pas3.png" style="width:100%;">
         </div>
         </div>
     </div>
     <!-- END CAROUSEL -->
     
-    <center><i style="font-size: 0.8em"> A los ancianos que están entre ustedes, yo, que soy anciano como ellos, testigo de los sufrimientos de Cristo y partícipe con ellos de la gloria que se ha de revelar, les ruego esto:cuiden como pastores el rebaño de Dios que está a su cargo, no por obligación ni por ambición de dinero, sino con afán de servir, como Dios quiere. 1 Pedro 5:1-2
+    <center><i style="font-size: 0.9em"> A los ancianos que están entre ustedes, yo, que soy anciano como ellos, testigo de los sufrimientos de Cristo y partícipe con ellos de la gloria que se ha de revelar, les ruego esto:cuiden como pastores el rebaño de Dios que está a su cargo, no por obligación ni por ambición de dinero, sino con afán de servir, como Dios quiere. 1 Pedro 5:1-2
     </i></center><br>
 
     <center> <h1> MINISTERIO PASTORAL</h1> </center>

@@ -1,7 +1,6 @@
 ---
 title: Adoración
 subtitle: Dirección de cultos, Grupos musicales, Coro, Audio y video, Producción.
-layout: default
 modal-id: 7
 date: 2021-07-03
 img: coro.jpeg
@@ -11,8 +10,34 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: >
-    <i>Por lo tanto, mis queridos hermanos, sigan firmes y constantes, trabajando siempre más y más en la obra del Señor; porque ustedes saben que no es en vano el trabajo que hacen en unión con el Señor. 1 Corintios 15:58</i>
 text: >
+    <!-- START CAROUSEL -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+        <div class="item active">
+            <img src="img/ministerios/ador.png" style="width:100%;">
+        </div>
+
+        <div class="item">
+            <img src="img/ministerios/sonido.png" style="width:100%;">
+        </div>
+        
+        <div class="item">
+            <img src="img/ministerios/coro.png" style="width:100%;">
+        </div>
+        </div>
+    </div>
+    <!-- END CAROUSEL -->
+    
+    <center><i style="font-size: 0.9em">Por lo tanto, mis queridos hermanos, sigan firmes y constantes, trabajando siempre más y más en la obra del Señor; porque ustedes saben que no es en vano el trabajo que hacen en unión con el Señor. 1 Corintios 15:58</i></center>
     <div>
     <center><h1> MINISTERIO DE ADORACIÓN </h1></center>
 

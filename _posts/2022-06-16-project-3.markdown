@@ -11,9 +11,37 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: >
-    <i>“.. y dio dones a los hombres…Así preparó a los suyos para un trabajo de servicio, para hacer crecer el cuerpo de Cristo hasta que todos lleguemos a estar unidos en la fé y en el conocimiento del Hijo de Dios. De este modo alcanzaremos la madurez y el desarrollo que corresponden a la estatura perfecta de Cristo” Efesios 4:8,12-13</i>
+    
 text: >
     <div>
+    
+    <!-- START CAROUSEL -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+        <div class="item active">
+            <img src="img/ministerios/maestros.png" style="width:100%;">
+        </div>
+
+        <div class="item">
+            <img src="img/ministerios/edif2.png" style="width:100%;">
+        </div>
+        
+        <div class="item">
+            <img src="img/ministerios/edif3.png" style="width:100%;">
+        </div>
+        </div>
+    </div>
+    <!-- END CAROUSEL -->
+
+    <center><i style="font-size: 0.9em">“.. y dio dones a los hombres…Así preparó a los suyos para un trabajo de servicio, para hacer crecer el cuerpo de Cristo hasta que todos lleguemos a estar unidos en la fé y en el conocimiento del Hijo de Dios. De este modo alcanzaremos la madurez y el desarrollo que corresponden a la estatura perfecta de Cristo” Efesios 4:8,12-13</i></center>
         <center><h1>Ministerio de edificación</h1></center> 
         <br>
         <p>El ministerio de edificación tiene como propósito:</p>
