@@ -1,0 +1,90 @@
+---
+title: Adoración
+subtitle: Dirección de cultos, Grupos musicales, Coro, Audio y video, Producción.
+modal-id: 7
+date: 2021-07-03
+img: coro.jpeg
+thumbnail: adoracion.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: >
+text: >
+    <!-- START CAROUSEL -->
+    <div id="myCarousel7" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+        <li data-target="#myCarousel7" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel7" data-slide-to="1"></li>
+        <li data-target="#myCarousel7" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+        <div class="item active">
+            <img src="img/ministerios/ador.png" style="width:100%;">
+        </div>
+
+        <div class="item">
+            <img src="img/ministerios/sonido.png" style="width:100%;">
+        </div>
+        
+        <div class="item">
+            <img src="img/ministerios/coro.png" style="width:100%;">
+        </div>
+        </div>
+    </div>
+    <!-- END CAROUSEL -->
+    
+    <center><i style="font-size: 0.9em">Por lo tanto, mis queridos hermanos, sigan firmes y constantes, trabajando siempre más y más en la obra del Señor; porque ustedes saben que no es en vano el trabajo que hacen en unión con el Señor. 1 Corintios 15:58</i></center>
+    <div>
+    <center><h1> MINISTERIO DE ADORACIÓN </h1></center>
+
+        <p>El ministerio de adoración se enfoca en inspirar a la congregación a que exalten el nombre de Dios con su vida. Muchas veces podría pensarse que este ministerio solo se trata de la música que se tocan los domingos y nada más, pero nosotros lo vemos como el momento y lugar donde juntos externamos nuestra relación y adoración a Dios; adoración que debemos de tener diariamente en nuestra forma de vivir y que el domingo es simplemente expresada en forma de canto, ofrenda, servicio, amor y comunión, etc. 
+        El ministerio de adoración se compone por una gran cantidad de servidores que siempre están dispuestos a trabajar para que Dios sea exaltado en sus vidas y las demás personas lo puedan ver. Para lograr esta tarea el ministerio se ha dividido en varios equipos con responsabilidades diferentes, los cuales son los siguientes:</p>
+    </div>
+    <div>
+        <h4>Equipo creativo.</h4>
+
+        Aquí es donde comienza todo para una reunión dominical. Este grupo está conformado por nuestro pastor y una serie de hermanos que juntos tienen el objetivo de trasmitir el mensaje que Dios tiene preparado para las personas que asisten a la reunión dominical. Ellos contemplan el mensaje principal de la predica y elaboran momentos, lecturas, videos, y participaciones que refuerzan la idea principal. 
+        <br>
+        <br>
+    </div>
+    <div>   
+        <h4>Producción.</h4>
+
+        El equipo de producción se encarga de que todo pase como y cuando tiene que pasar. Al momento de realizar la reunión dominical el equipo de producción se enfoca en que los diferentes momentos que conforman la reunión establecidos en el programa vayan uno tras otro sin ningún obstáculo y de esta manera contribuir a que el mensaje principal pueda ser recibido por los asistentes sin ninguna distracción.
+        <br>
+        <br>
+    </div>
+    <div>
+        <h4>Grupos de alabanza.</h4>
+        Los grupos de alabanza son una parte clave para guiar a la congregación a que juntos levantemos el nombre de nuestro Dios durante las reuniones. El objetivo principal de estos grupos debe de ser que siempre sea Dios el que sea exaltado, que siempre sea Dios el que sea glorificado y que siempre sea Dios el que hable a la congregación a través de un canto, lectura bíblica o reflexión Cristo céntrica. Cada grupo cuenta con líderes que cuentan con los dones y talentos para dirigir de forma musical y espiritual a los demás integrantes del grupo. 
+        <br>
+        <br>
+    </div>
+    <div>
+        <h4>Coro.</h4>
+        El coro de nuestra iglesia se conforma por hermanos que disfrutan el cantarle alabanzas a nuestro Dios. Son guiados por hermanos con conocimientos musicales y un gran amor a Dios y a las personas; lo cual hace que en los eventos especiales donde el coro participa se pueda compartir un mensaje Cristo céntrico usando juegos de voces e instrumentación. 
+        <br>
+        <br>
+    </div>
+    <div>
+        <h4>Audio, proyección y publicidad.</h4>
+        En la reunión es importante que el mensaje llegue de manera correcta y entendible a los presentes; por lo tanto, este equipo tiene la tarea de que lo que se dice, canta y toca sea apreciado correctamente en las reuniones. De la misma manera, durante las reuniones se proyectan las letras para invitar a los asistentes a que puedan acompañarnos cantando, así como hacer uso de material audiovisual para reforzar ideas en ciertos momentos de las reuniones y compartir los próximos eventos y anuncios.
+        <br>
+        <br>
+    </div>
+    <div>
+        <h4>Transmisión.</h4>
+        Sin duda la pandemia trajo muchos retos y limitantes para muchas de las iglesias cristianas en todo el mundo; sin embargo, algo positivo que trajo a nuestra iglesia la oportunidad de transmitir las reuniones de cada domingo a través de redes sociales. Esto ha sido de mucha bendición para los hermanos que no pueden asistir presencialmente y también ha sido una herramienta para que nuevas personas nos conozcan y visiten. 
+        <br>
+        <br>
+        <i><b>El ministerio de adoración se complace cuando es usado como una herramienta para que el reino de Dios en la tierra sea engrandecido. Nosotros queremos menguar para que Cristo sea levantado y más personas se acerquen a Él.</i></b>
+    </div>
+---
+
+
+
+

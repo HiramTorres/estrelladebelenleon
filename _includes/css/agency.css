@@ -44,7 +44,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #{{ site.data.template.color.secondary }};
+    color: #0d527d;
 }
 
 h1,
@@ -338,6 +338,13 @@ section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
     font-size: 40px;
+}
+
+section h2.section-subheading {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 30px;
+    color: white;
 }
 
 section h3.section-subheading {
@@ -784,7 +791,6 @@ ul.social-buttons li a:active {
     min-height: 100%;
     border: 0;
     border-radius: 0;
-    text-align: center;
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;

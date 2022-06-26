@@ -1,0 +1,64 @@
+---
+title: Compasión
+subtitle: SOS (Auxilio cristiano), Hospitales , Despensa mensual. 
+modal-id: 6
+date: 2021-07-03
+img: 
+thumbnail: compasion.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: 
+text: >
+    <!-- START CAROUSEL -->
+    <div id="myCarousel6" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+        <li data-target="#myCarousel6" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel6" data-slide-to="1"></li>
+        <li data-target="#myCarousel6" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+        <div class="item active">
+            <img src="img/ministerios/compasion.png" style="width:100%;">
+        </div>
+
+        <div class="item">
+            <img src="img/ministerios/compasion2.png" style="width:100%;">
+        </div>
+        
+        <div class="item">
+            <img src="img/ministerios/compasion3.png" style="width:100%;">
+        </div>
+        </div>
+    </div>
+    <!-- END CAROUSEL -->
+
+    <center><h1>Ministerio de Compasión</h1></center>
+    <center><i style="font-size: 0.9em">Y al ver las multitudes, tuvo compasión de ellas; porque estaban desamparadas y dispersas como ovejas que no tienen pastor. Mateo 9:36</i></center>
+
+    <i> Responsable: Hna Alicia Espinosa</i>
+    <br>
+    <br>
+    <p><b>Visión:</b> Ser discípulos para hacer discípulos</p>
+
+    <p><b>Misión:</b> Entregar nuestras vidas al señor a través de la PPESCCAA</p>
+
+    
+
+    <p><b>El propósito de este Ministerio es atender cercanamente las necesidades físicas, emocionales y espirituales de los miembros de IBEB, de los miembros en perspectiva y de la gente nueva que se acerca a nuestra Iglesia.</b></p>
+    <i>Proyectos que involucra el ministerio:</i>
+    <ul>
+        <li>SOS: Visitación y Atención en Hospitales, Asilo, Casa Hogar.</li>				
+        <li>UJIERES: Porque son el primer contacto con las personas al llegar al templo.</li>
+        <li>MESA DE ATENCION A NUEVAS PERSONAS: Proveer información básica de nuestra Iglesia.</li>
+        <li>DESPENSA: Brinda una ayuda en despensa básica a hermanos o personas con esa necesidad.</li>	
+        <li>MINISTEL: Ponerse en contacto con las personas para saludarles o saber de alguna necesidad.</li>
+    </ul>
+    <br>
+    <center><i style="font-size: 0.9em">El Espíritu de Jehová el Señor está sobre mí, porque me ungió Jehová; me ha enviado a predicar buenas nuevas a los abatidos, a vendar a los quebrantados de corazón, a publicar libertad a los cautivos, y a los presos apertura de la cárcel;  a proclamar el año de la buena voluntad de Jehová, y el día de venganza del Dios nuestro; a consolar a todos los enlutados;  a ordenar que a los afligidos de Sion se les dé gloria en lugar de ceniza, óleo de gozo en lugar de luto, manto de alegría en lugar del espíritu angustiado; y serán llamados árboles de justicia, plantío de Jehová, para gloria suya.</i></center>
+
+---

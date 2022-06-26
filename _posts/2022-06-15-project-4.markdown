@@ -1,0 +1,66 @@
+---
+title: Servicio
+subtitle: Ordenanzas, Mantenimiento, Conserjería, Ornato y arreglo floral, Diáconos.
+layout: default
+modal-id: 4
+date: 2021-07-03
+img: servi.jpg
+thumbnail: servicio.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: >
+    
+text: >
+    <!-- START CAROUSEL -->
+    <div id="myCarousel4" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+        <li data-target="#myCarousel4" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel4" data-slide-to="1"></li>
+        <li data-target="#myCarousel4" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+        <div class="item active">
+            <img src="img/ministerios/serv.png" style="width:100%;">
+        </div>
+
+        <div class="item">
+            <img src="img/ministerios/servi2.png" style="width:100%;">
+        </div>
+        
+        <div class="item">
+            <img src="img/ministerios/servi3.png" style="width:100%;">
+        </div>
+        </div>
+    </div>
+    <!-- END CAROUSEL -->
+
+    <div>
+        <center><i style="font-size: 0.9em">Por lo tanto, mis queridos hermanos, manténganse firmes e inconmovibles, progresando siempre en la obra del Señor, conscientes de que su trabajo en el Señor no es en vano. 1 Corintios 15:58 </i></center>
+    </div>
+    <div>
+    <center><h1>Ministerio de servicio</h1></center>  
+
+    <p><b>Propósito:</b>El Ministerio de Servicio es el encargado de enseñar a cada uno de los miembros y congregantes a tener la actitud de Jesús respecto al Servir</p>
+    <br>
+    <i> Proyectos del ministerio de servicio</i>
+    <br>
+    <ul>
+        <li>Mantenimiento de instalaciones IBEB</li>
+        <li>Aseo de instalaciones IBEB</li>
+        <li>Control de llaves IBEB</li>
+        <li>Arreglo floral y de ocasiones especiales</li>
+        <li>Seguridad</li>
+        <li>Transporte para personas con discapacidades y enfermedades</li>  
+        <li>Apoyo en el servicio de las ordenanzas</li>
+        <li>Equipo de diaconos</li>
+    </ul>
+    <br>
+    <center><i style="font-size: 0.9em">como el Hijo del Hombre no vino para ser servido, sino para servir, y para dar su vida en rescate por muchos. Mateo 20:28</i></center>
+  
+    </div>
+---

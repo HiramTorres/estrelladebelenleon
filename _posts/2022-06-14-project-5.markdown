@@ -1,0 +1,87 @@
+---
+title: Compañerismo
+subtitle: Comida fraternal, Cocina, Ujieres.
+
+layout: default
+modal-id: 5
+date: 2021-07-03
+img: cocina.png
+thumbnail: niños.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: >     
+    
+text: >
+    <!-- START CAROUSEL -->
+    <div id="myCarousel5" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+        <li data-target="#myCarousel5" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel5" data-slide-to="1"></li>
+        <li data-target="#myCarousel5" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+        <div class="item active">
+            <img src="img/ministerios/cocina.png" style="width:100%;">
+        </div>
+
+        <div class="item">
+            <img src="img/ministerios/comp2.png" style="width:100%;">
+        </div>
+        
+        <div class="item">
+            <img src="img/ministerios/comp3.png" style="width:100%;">
+        </div>
+        </div>
+    </div>
+    <!-- END CAROUSEL -->
+
+    <center><i style="font-size : 0.9em">Hermanos, llénense de alegría y traten de renovarse. Hagan lo que les digo: pónganse de acuerdo entre ustedes y vivan en paz. Así, el Dios de amor y paz estará con ustedes. 2 corintios 13:11</i></center>
+    <div>
+        <center><h1>Ministerio de Compañerismo</h1></center>
+        <br>   
+            <b><i>AMAR A DIOS, AMAR AL PRÓJIMO, ALCANZAR AL MUNDO</i></b>
+        
+    </div>
+    <br>
+    <div>
+        El ministerio de compañerismo es un ministerio que aunque tiene liderazgo en cada actividad también hace parte a toda la iglesia. 
+        <br>
+        <br>
+            <i> Dentro de sus actividades se encuentran:</i>
+    </div>
+    <br>
+    <div>
+        <h4>Equipo de de ujieres:</h4>
+        <br>
+            <i> Este se encarga de: </i>
+            <p>Dar la bienvenida a los miembros de la iglesia y nuevos congregantes cada domingo o evento especial buscando que se sientan en confianza y acogidos desde el primer momento que llegan.
+    </div>
+    <div>
+        <h4>Organización de eventos sociales de la iglesia:</h4>
+        <br>
+            <i> Este se encarga de: </i>
+            <ul>
+                <li>iniciar el año con la comida en el taller de liderazgo (fuera de la ciudad)
+                <li>Desayuno domingo de resurrección. Mes de Abril
+                <li> Comida de celebración por el Aniversario de la iglesia. El tercer domingo de junio 
+                <li>Septiembre fecha por confirmar paseo rancho hermano Chuy elotiza.
+                <li>Septiembre 15 fiesta mexicana con el propósito de invitar a la comunidad cercana de Estrella de Belén para ser de bendición (alcanzar al mundo).
+                <li>Diciembre 24 y/o 31 cena de fin de año en el templo.
+                <li>Y atender cualquier evento que tenga cualquier otro ministerio, andinos previo aviso para poder servirles como se merecen.
+            </ul>
+    </div>
+    <div>
+        <h4>Paseo anual de la iglesia:</h4>
+        <br>
+            <i> Este se encarga de: </i>
+            <p>
+            Paseo anual del la iglesia el día 1 de mayo ( rally, paseo balneario, día de campo, etc) está pendiente un hermano que se haga cargo de esta actividad.
+            </p>
+    </div>
+    <center><i style="font-size : 0.9em"> Un servidor de Dios no debe andar en peleas. Al contrario, debe ser bueno con todos, saber enseñar, y tener mucha paciencia. Y cuando corrijas a tus enemigos, hazlo con humildad. Tal vez Dios les dé la oportunidad de arrepentirse y de conocer la verdad. 2 Timoteo 2:24-25</i></center>
+---
