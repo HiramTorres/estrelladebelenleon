@@ -4,10 +4,6 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-// Banner modal
-$(document).ready(function () {
-    $('#bannerModal').modal('show');
-});
 
 // jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function () {
