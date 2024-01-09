@@ -23,7 +23,7 @@ text: >
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
         <div class="item active">
-            <img src="img/ministerios/ador.png" style="width:100%;">
+            <img src="img/ministerios/coro1.jpeg" style="width:100%;">
         </div>
 
         <div class="item">
@@ -31,7 +31,7 @@ text: >
         </div>
         
         <div class="item">
-            <img src="img/ministerios/coro1.jpeg" style="width:100%;">
+            <img src="img/ministerios/ador.png" style="width:100%;">
         </div>
         </div>
     </div>
