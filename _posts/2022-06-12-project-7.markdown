@@ -31,7 +31,7 @@ text: >
         </div>
         
         <div class="item">
-            <img src="img/ministerios/coro1.png" style="width:100%;">
+            <img src="img/ministerios/coro1.jpeg" style="width:100%;">
         </div>
         </div>
     </div>
