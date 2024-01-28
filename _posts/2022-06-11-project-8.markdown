@@ -14,39 +14,39 @@ description: >
     
 text: >
     <!-- START CAROUSEL -->
-    <div id="myCarousel8" class="carousel slide" data-ride="carousel">
-        <!-- Indicators -->
-        <ol class="carousel-indicators">
-        <li data-target="#myCarousel8" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel8" data-slide-to="1"></li>
-        <li data-target="#myCarousel8" data-slide-to="2"></li>
-        </ol>
+        <div id="myCarousel8" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#myCarousel8" data-slide-to="0" class="active"></li>
+                <li data-target="#myCarousel8" data-slide-to="1"></li>
+                <li data-target="#myCarousel8" data-slide-to="2"></li>
+            </ol>
 
-        <!-- Wrapper for slides -->
-        <div class="carousel-inner">
-        <div class="item active">
-            <img src="img/ministerios/admin3.png" style="width:100%;">
-        </div>
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner">
+                <div class="item active">
+                    <img src="img/ministerios/admin3.png" style="width:100%;">
+                </div>
 
-        <div class="item">
-            <img src="img/ministerios/admin.png" style="width:100%;">
+                <div class="item">
+                    <img src="img/ministerios/admin.png" style="width:100%;">
+                </div>
+            
+                <div class="item">
+                    <img src="img/ministerios/admin2.png" style="width:100%;">
+                </div>
+            </div>
         </div>
-        
-        <div class="item">
-            <img src="img/ministerios/admin2.png" style="width:100%;">
-        </div>
-        </div>
-    </div>
     <!-- END CAROUSEL -->
 
     <div>
         <center><h1>MINISTERIO DE ADMINISTRACION</h1></center>
         <br>
         
-        <p>El ministerio de administración de la iglesia Estrella de Belén, cumple la función de optimizar los recursos financieros provistos por medio de las ofrendas y diezmos que de forma voluntaria entregan los miembros de la iglesia. 
-        Como ministerio enseñamos  lo que bíblicamente vemos respecto a ofrendas y diezmos, resaltando la bendición que es participar en la extensión del reino de Dios, ya que con los recursos recabados se sostienen pastores, misioneros y diferentes ministerios que se dedican a la proclamación del evangelio.</p>
+            <p>El ministerio de administración de la iglesia Estrella de Belén, cumple la función de optimizar los recursos financieros provistos por medio de las ofrendas y diezmos que de forma voluntaria entregan los miembros de la iglesia. 
+            Como ministerio enseñamos  lo que bíblicamente vemos respecto a ofrendas y diezmos, resaltando la bendición que es participar en la extensión del reino de Dios, ya que con los recursos recabados se sostienen pastores, misioneros y diferentes ministerios que se dedican a la proclamación del evangelio.</p>
         
-        <p>También se destinan recursos para la construcción del templo, así como el adecuado mantenimiento del mismo.</p>
+            <p>También se destinan recursos para la construcción del templo, así como el adecuado mantenimiento del mismo.</p>
         
         <i>Los trabajos del ministerio se llevan a cabo por medio de las siguientes Áreas:</i>
             <ul>
